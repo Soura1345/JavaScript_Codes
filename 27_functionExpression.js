@@ -1,6 +1,6 @@
-// setTimeout(function(){
-//     console.log("hello");
-// }, 300);
+setTimeout(function(){
+    console.log("hello");
+}, 300);
 
 const numbers = [1, 2, 3, 4, 5, 6]
 
