@@ -13,7 +13,7 @@ const person1 = {
 
 const person2 = {
     firstName: "Neal",
-    lastName: "Day",
+    lastName: "Dey",
     age: 20,
     isStudent: true,
     sayHello: () => {
