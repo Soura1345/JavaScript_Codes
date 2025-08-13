@@ -1,18 +1,18 @@
-// class mathUtil{
-//     static PI = 3.14159;
+class mathUtil{
+    static PI = 3.14159;
 
-//     static getDiameter(radius){
-//         return radius * 2;
-//     }
+    static getDiameter(radius){
+        return radius * 2;
+    }
 
-//     static getCircumfernce(radius){
-//         return 2 * this.PI * radius;
-//     }
+    static getCircumfernce(radius){
+        return 2 * this.PI * radius;
+    }
 
-//     static getArea(radius){
-//         return this.PI * Math.pow(radius,2);
-//     }
-// }
+    static getArea(radius){
+        return this.PI * Math.pow(radius,2);
+    }
+}
 
 // console.log(mathUtil.PI);
 // console.log(mathUtil.getDiameter(10));
